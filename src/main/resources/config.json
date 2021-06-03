@@ -1,0 +1,6 @@
+{
+  "groupId":"cn.xiaoyu",
+  "artifactId":"springboot-generate-restclient",
+  "artifactVersion":"0.0.1-SNAPSHOT",
+  "library":"feign"
+}
